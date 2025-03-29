@@ -1,3 +1,4 @@
+![MasterHead](https://www.trenser.com/wp-content/uploads/2021/08/404291647_services_emb-sw_emb-applications.jpg)
 <h1 align="center">Hi 👋, I'm Ahmed Hnana</h1>
 <h3 align="center">Industrial Instrumentation and Maintenance Engineer, specialized in microelectronics, with a strong background in embedded systems development.</h3>
 
@@ -7,6 +8,12 @@
 - 🔭 I’m currently working on **robotics projects**
 
 - 🌱 I’m currently learning **stm32 and raspberry**
+
+- 📊 Continuously exploring **computer vision and smart systems**
+  
+- ⚙️ Experienced in **sensor integration, automation, and data acquisition**
+
+- 🌐 Basic knowledge in **web development** for creating intuitive interfaces in **IoT projects**
 
 - 📫 How to reach me **ahmedhnana336@gmail.com**
   
